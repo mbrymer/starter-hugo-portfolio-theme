@@ -1,5 +1,5 @@
 ---
-widget: about.avatar
+widget: about
 widget_id: about
 headless: true
 weight: 10
