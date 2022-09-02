@@ -1,5 +1,5 @@
 ---
-widget: Hero
+widget: hero
 widget_id: Name
 headless: true
 weight: 10
