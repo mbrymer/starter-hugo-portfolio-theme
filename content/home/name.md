@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: Name
+widget_id: hero thing
 headless: true
 weight: 10
 title: This is a title
