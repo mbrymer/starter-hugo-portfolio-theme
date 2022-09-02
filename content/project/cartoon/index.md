@@ -1,8 +1,9 @@
 ---
 title: Cartoon Face Generator
-summary: Write about your project here...
+date: 2022-01-01
+summary: I made a face generator bro
 tags:
   - CV
-date: 2022-01-01
-external_link: http://github.com
+external_link: ""
 ---
+T﻿hese are some sorts about a face generator
